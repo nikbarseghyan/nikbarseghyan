@@ -1,13 +1,15 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55px">
-
 <div align="center">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55px">
+</div>
+
+<div align="center" style="margin: 40px 0">
     <a href="https://github.com/antonkomarev/github-profile-views-counter">
         <img width="175px" src="https://komarev.com/ghpvc/?username=rebiss&color=DE002D">
     </a>
-</div>
+</div
 
 <table><tr>
-    <td valign="top" width="33%">
+    <td valign="top" width="50%">
         <div align="center">
            <h6> <b> Full Stack </b> </h6>
         </div>
