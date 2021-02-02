@@ -3,12 +3,6 @@
     <img width="175px" src="https://komarev.com/ghpvc/?username=rebiss&color=DE002D">
 </a>
 
-[Ÿ HŸPE]: https://yhype.me
-[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
-
-<div align="center">
-    ![](https://hit.yhype.me/github/profile?user_id=30255356)
-</div>
 
 <table><tr>
     <td valign="top" width="33%">
@@ -46,7 +40,7 @@
 <hr/>
 
 <div align="center">
-    <h6> <b> Conect </b> </h6>
+    <h6> <b> Connect with me </b> </h6>
        <a href="https://www.linkedin.com/in/rebiss/" target="blank" style="text-decoration: none">
          <img height="50" src="https://eaes.eu/wp-content/uploads/2017/05/linkedin-logo.png" alt="Linkedin"/>
      </a> 
