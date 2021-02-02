@@ -9,7 +9,7 @@
 </div
 
 <table><tr>
-    <td valign="top" width="45%">
+    <td valign="top" width="35%">
         <div align="center">
            <h6> <b> Full Stack </b> </h6>
         </div>
