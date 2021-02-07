@@ -6,7 +6,7 @@
     <a href="https://github.com/antonkomarev/github-profile-views-counter">
         <img width="175px" src="https://komarev.com/ghpvc/?username=rebiss&color=DE002D">
     </a>
-</div
+</div>
 
 <table><tr>
     <td valign="top" width="30%">
