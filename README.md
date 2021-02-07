@@ -48,13 +48,10 @@
        <a href="https://www.linkedin.com/in/rebiss/" target="blank" style="text-decoration: none">
          <img height="50" src="https://eaes.eu/wp-content/uploads/2017/05/linkedin-logo.png" alt="Linkedin"/>
      </a> 
-        <a href="https://www.facebook.com/ximera.11/" target="blank" style="text-decoration: none">
-            <img  height="50" src="http://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19751.png"/>
-        </a> 
-        <a href="https://codepen.io/rebiss" target="blank" style="text-decoration:none">
-            <img height="50" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/59_Codepen-512.png"/>
-        </a>
-        <a href="https://medium.com/@rebiss" target="blank" style="text-decoration: none">
-            <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512/Medium_rounded_cr-512.png" />
-        </a>
+     <a href="https://codepen.io/rebiss" target="blank" style="text-decoration:none">
+        <img height="50" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/59_Codepen-512.png"/>
+     </a>
+     <a href="https://medium.com/@rebiss" target="blank" style="text-decoration: none">
+       <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512/Medium_rounded_cr-512.png" />
+      </a>
 </div>  
