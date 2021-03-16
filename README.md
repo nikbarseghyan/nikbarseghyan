@@ -43,7 +43,7 @@
 </tr></table>  
 <hr/>
 
-<div align="center">
+<!-- <div align="center">
     <h6> <b> Connect with me </b> </h6>
        <a href="https://www.linkedin.com/in/rebiss/" target="blank" style="text-decoration: none">
          <img height="50" src="https://eaes.eu/wp-content/uploads/2017/05/linkedin-logo.png" alt="Linkedin"/>
@@ -54,4 +54,4 @@
      <a href="https://medium.com/@rebiss" target="blank" style="text-decoration: none">
        <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512/Medium_rounded_cr-512.png" />
       </a>
-</div>  
+</div>   -->
