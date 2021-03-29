@@ -33,7 +33,7 @@
             <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png" alt="Windows" height="50" /> 
             <img style="margin: 10px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="Docker" height="50" />
             <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Kubernetes_%28container_engine%29.png" alt="Kubernetes" height="50" />
-            <img style="margin: 10px" alt="VMware" height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/34/VMware_Workstation_11.0_icon.png" />
+<!--             <img style="margin: 10px" alt="VMware" height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/34/VMware_Workstation_11.0_icon.png" /> -->
 <!--             <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /> -->
 <!--             <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  -->
             <img style="margin: 10px" src="https://i.pinimg.com/originals/32/49/3a/32493aea1ed976cebf93364be225a2f8.png" alt="CI/CD" height="50"/> 
