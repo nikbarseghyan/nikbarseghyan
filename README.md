@@ -19,7 +19,7 @@
           <img style="margin: 10px" alt="React" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
             <img style="margin: 10px" alt="Angular" height="50" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/angular/angular.png" />
             <img style="margin: 10px" alt="GraphQL" height="50" src="https://raw.githubusercontent.com/rohan-varma/rohan-blog/gh-pages/images/graphql.png" />
-            <img style="margin: 10px" alt="Apollo" height="50" src="https://dimitr.im/static/b876b338c35d14291bff2641e50262b6/ff9b8/apollo.png" />  
+<!--             <img style="margin: 10px" alt="Apollo" height="50" src="https://dimitr.im/static/b876b338c35d14291bff2641e50262b6/ff9b8/apollo.png" />   -->
             <img style="margin: 10px" alt="Node.js" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
             <img style="margin: 10px"  alt="Express" height="50" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/express.png"/>  
             <img style="margin: 10px" alt="Nest.js" height="50" src="https://habrastorage.org/getpro/habr/post_images/d11/98b/ac8/d1198bac8e4ced0d89d5e5983061f418.png" />
