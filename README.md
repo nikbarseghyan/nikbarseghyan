@@ -7,11 +7,10 @@
         <img width="175px" src="https://komarev.com/ghpvc/?username=rebiss&color=DE002D">
     </a>
 </div>
-
+<!-- 
 <table><tr>
     <td valign="top" width="50%">
         <div align="center">
-<!--            <h6> <b> Full Stack </b> </h6> -->
         </div>
         <div align="center" height="300px">  
          <img style="margin: 10px" alt="JavaScript" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -21,7 +20,6 @@
             <img style="margin: 10px" alt="SQL" height="50" src="https://www.zeluslugi.ru/upload/news/terms20191115-1.png" />
         </div></td><td valign="top" width="50%">
         <div align="center">
-<!--                 <h6><b>DevOps toolchain</b></h6> -->
             </div>
         <div align="center" height="50%"> 
             <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
@@ -30,5 +28,5 @@
             <img style="margin: 10px" alt="VMware" height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/34/VMware_Workstation_11.0_icon.png" />
         </div>
     </td>
-</tr></table>  
-<hr/>
+</tr></table>   -->
+<iframe src="http://andranikbarseghyan.dev/" style="height: 100%; width: 100%;" title=""></iframe>
