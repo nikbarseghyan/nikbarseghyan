@@ -21,7 +21,7 @@
         </div></td><td valign="top" width="50%">
         <div align="center">
             </div>
-        <div align="center" height="50%"> 
+        <div align="center" height="300px"> 
             <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
             <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png" alt="Windows" height="50" /> 
             <img style="margin: 10px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="Docker" height="50" />
