@@ -7,7 +7,7 @@
         <img width="175px" src="https://komarev.com/ghpvc/?username=rebiss&color=DE002D">
     </a>
 </div>
-<!-- 
+
 <table><tr>
     <td valign="top" width="50%">
         <div align="center">
@@ -28,5 +28,4 @@
             <img style="margin: 10px" alt="VMware" height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/34/VMware_Workstation_11.0_icon.png" />
         </div>
     </td>
-</tr></table>   -->
-<iframe src="http://andranikbarseghyan.dev/" style="height: 100%; width: 100%;" title=""></iframe>
+</tr></table> 
