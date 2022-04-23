@@ -18,6 +18,5 @@
   <img src="https://www.zeluslugi.ru/upload/news/terms20191115-1.png" alt="SQL" height="55" />
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" height="55" />
   <img src="https://miro.medium.com/max/400/1*8j8fs_OnB1cnjQ1CbEbZkA.png" alt="Elasticsearch" height="55" /> 
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fdocker_919853&psig=AOvVaw2d49HLDcSupwaRMQ9Bd8JB&ust=1650824128117000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNjSuaHlqvcCFQAAAAAdAAAAABAU" alt="Docker" height="55" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/VMware_Workstation_11.0_icon.png" alt="VMware" height="55"/>
 </div>
