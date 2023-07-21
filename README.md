@@ -12,7 +12,7 @@
 <div align="center" height="300px" style="margin: 40px">  
   <img alt="JavaScript" height="55" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_tYaggzZtrVKys9HdormuKkMqVJq-MEAmAurUaMaeC-rVeFQ6b5Q2m6S1liToWzmADjY&usqp=CAU"/>
   <img alt="Typescript"height="55" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" />
-  <img alt="Node.js" height="55" src="https://web-creator.ru/uploads/Page/22/nodejs.svg" />
+  <img alt="Node.js" height="55" src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-1174925.png?f=webp" />
   <img src="https://brandslogos.com/wp-content/uploads/images/large/react-logo.png" alt="React.js" height="55"/>
   <img  src="https://habrastorage.org/getpro/habr/post_images/d11/98b/ac8/d1198bac8e4ced0d89d5e5983061f418.png" alt="Nest.js" height="55" />
   <img src="https://www.zeluslugi.ru/upload/news/terms20191115-1.png" alt="SQL" height="55" />
